@@ -13,4 +13,11 @@ By predicting customer churn, businesses can:
 - **Predictive Modeling**: Implement machine learning models to classify and predict churn behavior.
 - **Interpretability**: Identify actionable insights from the predictive models to aid decision-making.
 
-
+## Technologies
+- **Programming Language**: Python
+- **Libraries**:
+  - **Pandas**, **NumPy**: Data analysis and manipulation.
+  - **Scikit-learn**: Machine learning model building and evaluation.
+  - **Matplotlib**, **Seaborn**: Data visualization.
+- **Tools**:
+  - **Jupyter Notebook**: Interactive environment for analysis and development.
